@@ -82,7 +82,16 @@ A well-designed booking system reduces friction in the user journey, increases c
 ### Typography:
 - **Primary Font:** Circular, Medium (500), 16px  
 - **Headings:** Circular, Bold (700), 24px-32px  
-- **Secondary Text:** Circular, Book (400), 14px  
+- **Secondary Text:** Circular, Book (400), 14px
+
+### Importance of Identifying Design Properties in Mockup Design
+
+Identifying and defining design properties such as color styles and typography in your mockups is crucial for several reasons:
+
+- **Consistency**: Ensures uniformity across the design, enhancing the user experience.
+- **Efficiency**: Streamlines the design process by reusing styles, saving time.
+- **Collaboration**: Facilitates communication among team members and stakeholders by providing a clear design framework.
+- **Scalability**: Allows for easy updates and maintenance, as changes to a style propagate throughout the design.
 
 ## Project Roles and Responsibilities
 
